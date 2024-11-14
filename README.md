@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Cem.<br>I am .Net Core Back-end Developer. <br>I share my projects in there.
+Software Engineer <br>.NET and C# Lover 
 
 
 ## 🌐 Socials:
