@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer <br>.NET and C# Lover 
+Software Engineer <br>.NET & C#
 
 
 ## 🌐 Socials:
